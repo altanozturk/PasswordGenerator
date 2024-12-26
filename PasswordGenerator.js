@@ -56,17 +56,17 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#a1c4fd', // Degrade başlıyor
+    backgroundColor: '#a1c4fd', 
     padding: 20,
   },
   title: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#ff6f61', // Turuncu ton
+    color: '#ff6f61', 
     marginBottom: 20,
   },
   passwordBox: {
-    backgroundColor: '#f9f9f9', // Hafif beyaz-gri
+    backgroundColor: '#f9f9f9', 
     padding: 15,
     borderRadius: 10,
     marginVertical: 20,
@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
   },
   passwordText: {
     fontSize: 22,
-    color: '#333333', // Siyah ton
+    color: '#333333', 
     fontWeight: 'bold',
   },
   placeholderText: {
@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   button: {
-    backgroundColor: '#ff6f61', // Canlı turuncu
+    backgroundColor: '#ff6f61', 
     paddingVertical: 15,
     paddingHorizontal: 40,
     borderRadius: 12,
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.3,
     shadowRadius: 5,
     elevation: 6,
-    marginTop: 20, // Bu satır ile boşluk ekledik
+    marginTop: 20, 
   },
   buttonText: {
     color: '#ffffff',
@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   copyButton: {
-    backgroundColor: '#4CAF50', // Yeşil renk
+    backgroundColor: '#4CAF50', 
     marginTop: 15,
     paddingVertical: 10,
     paddingHorizontal: 20,
